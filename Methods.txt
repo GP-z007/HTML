@@ -1,0 +1,33 @@
+Object Methods:
+    * These are actions that can be performed on objects
+        ** this.{variable_name} property of a person
+    * Accesing the methods:
+        ** objectname.methodname
+        ** eg:  person.fullname();
+                
+
+String Methods:
+    * These are primitive and immutable
+    * str.length
+    * str.charAt()
+    * str.charCodeAt()
+    * str.codePointAt()
+    * str.concat()
+    * str.at()
+    * str.[.]
+    * str.slice()
+    * str.substring()
+    * str.substr()
+    * str.toUpperCase()
+    * str.toLowerCase()
+    * str.isWellFormed()
+    * str.toWellFormed()
+    * str.trim()
+    * str.trimStart()
+    * str.trimEnd()
+    * str.padStart()
+    * str.padEnd()
+    * str.repeat()
+    * str.replace()
+    * str.replaceAll()
+    * str.split()
