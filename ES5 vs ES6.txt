@@ -1,0 +1,19 @@
+ES5 :
+1 . It supports primitive data types that are strings,
+    number, boolean, null and undefined.
+2 . There is only one way to define to define the variables
+    by using the var keyword.
+3 . Object manipulation is time consuming.
+4 . Both function and return keyword are used to define a 
+    function.
+
+ES6 :
+1 . Addition of data types such as: Symbol for supporting 
+    unique values and many more.
+2 . There are two new ways to define variables that are let
+    and const.
+3 . Object manipulation is less time consuming.
+4 . An arrow function is a new feature introduced in ES6 by 
+    which we don't require the function keyword to define the
+    function.
+    

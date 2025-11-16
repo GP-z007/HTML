@@ -1,0 +1,9 @@
+Both EM and REM represent relative units that display the 
+scalable and responsive results.
+
+EM : It is the relative to the font size of the parent.
+    EG : If a parent font size is 20px then 2em is 40px
+REM : It is relative to the root element font size, usually 
+      <html>.
+    EG : If the root font is 16px then 1rem is 16px.
+
